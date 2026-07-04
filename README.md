@@ -650,6 +650,8 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) [[pik](https://crates.io/crates/pik)] - A TUI command line tool that helps to find and kill processes
 * [Kondo](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
 * [LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
+* [livediff](https://github.com/SoCkEt7/Livediff) - Live terminal diffs while files change [![Crates.io Version](https://img.shields.io/crates/v/livediff.svg)](https://crates.io/crates/livediff)
+[![CI Status](https://github.com/SoCkEt7/Livediff/actions/workflows/ci.yml/badge.svg)](https://github.com/SoCkEt7/Livediff/actions)
 * [lodosgroup/lpm](https://github.com/lodosgroup/lpm) - An experimental system package manager
 * [lotabout/rargs](https://github.com/lotabout/rargs) [[rargs](https://crates.io/crates/rargs)] - xargs + awk with pattern matching support
 * [lsd](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/actions/workflows/CICD.yml/badge.svg)](https://github.com/lsd-rs/lsd/actions)
